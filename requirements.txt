@@ -1,0 +1,17 @@
+paddlepaddle
+paddlespeech
+jieba>=0.39
+pypinyin
+numpy
+pandas
+six
+pycorrector
+re
+nltk
+spacy
+librosa
+soundfile
+wave
+collections
+contextlib
+webrtcvad
